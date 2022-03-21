@@ -35,6 +35,7 @@ body{
   border: rgb(0, 0, 0) solid 4px;
   border-radius: 6px;
   padding: .6rem .2rem .4rem;
+  cursor:pointer
 }
 
 .drum-key .title{
